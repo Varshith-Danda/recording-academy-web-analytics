@@ -18,6 +18,7 @@ In February 2022, The Recording Academy — the non-profit behind the Grammy Awa
 ```
 recording-academy-web-analytics/
 ├── datasets/        ← 6 CSV data files
+├── images/          ← Certificate
 ├── notebook/        ← Jupyter notebook
 └── README.md
 ```
@@ -34,3 +35,7 @@ recording-academy-web-analytics/
 1. Clone the repo
 2. Install dependencies: `pip install pandas numpy plotly jupyter`
 3. Open Jupyter from the root of the repo folder, then navigate to `notebook/Recording_Academy_Web_Analytics.ipynb`
+
+## Certificate
+
+![Recording Academy Certificate](images/grammy_certificate.png)
